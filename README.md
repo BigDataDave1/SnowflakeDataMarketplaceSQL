@@ -8,5 +8,5 @@ The Snowflake Data Marketplace is quickly becoming one of my favourite things ab
 ### Labs
 * COVID-19 September 2020
   * Lab Guide: https://bigdatadave.com/2020/09/11/snowflake-hands-on-with-the-snowflake-data-marketplace-wunderman-and-covid-19/
-  * SQL: 
+  * SQL: https://github.com/BigDataDave1/SnowflakeDataMarketplaceSQL/blob/main/SnowflakeDataMarketplaceVHOL_WundermanSep2020.SQL
   * Recording: https://resources.snowflake.com/webinars-virtual-hands-on-labs/virtual-hands-on-lab-getting-started-with-snowflake-data-marketplace
